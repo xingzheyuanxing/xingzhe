@@ -1,4 +1,4 @@
-xingzhe is a very handsome man!
+﻿xingzhe is a very handsome man!
 xingzhe is a very good man!
 
 lily is a goog girl!
@@ -12,8 +12,13 @@ wa hahhahahah
  nice good ok
 
 
+<<<<<<< HEAD
 123213412341 
 
 This is xz01!
 
 xz01 12.17 PM
+=======
+123213412341 
+hahahahah
+>>>>>>> 522b46e6ac491e17450ba41817462e78fec61b52
