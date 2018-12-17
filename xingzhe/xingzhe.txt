@@ -12,6 +12,7 @@ wa hahhahahah
  nice good ok
 
 
+<<<<<<< HEAD:xingzhe/xingzhe.txt
 123213412341 
 hahahahah
 
@@ -20,3 +21,25 @@ hahahahah
 zheshiyigeceshi！
 
 12.17 night
+=======
+<<<<<<< HEAD
+123213412341 
+
+This is xz01!
+
+xz01 12.17 PM
+<<<<<<< HEAD
+=======
+123213412341 
+hahahahah
+>>>>>>> 522b46e6ac491e17450ba41817462e78fec61b52
+=======
+
+NB
+
+666666666
+>>>>>>> xz01
+
+88888
+>>>>>>> 5c11f767a140c8ac0fa35022ebab2f8a0ede841e:xingzhe.txt
+
