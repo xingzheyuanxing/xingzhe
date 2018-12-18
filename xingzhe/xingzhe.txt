@@ -1,4 +1,4 @@
-﻿xingzhe is a very handsome man!
+xingzhe is a very handsome man!
 
 xingzhe is a very good man!
 
@@ -28,3 +28,4 @@ xz01
 
 88888
 
+now time is 12.18 AM 9:15
